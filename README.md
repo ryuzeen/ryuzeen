@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vulconibraba@gmail.com**
 
-- 🗣️ Language **PT / ES / EN / RU**
+- 🗣️ Languages **PT / ES / EN / RU**
 
 - ⚡ Support me at **https://sociabuzz.com/ryuzeen_/tribe**
 
