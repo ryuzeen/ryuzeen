@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/b4/9b/6e/b49b6e041c91e0ebcf2da1fabc8439e9.png)](https://rishavchanda.io)
 <h1 align="center">Hello :D! im Ryuzeen</h1>
-<h3 align="center">I am a Front/Back end developer / Reverse engineering</h3>
+<h3 align="center">I am a Front / Back end developer / Reverse engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuzeen&label=Profile%20views&color=0e75b6&style=flat" alt="ryuzeen" /> </p>
 
