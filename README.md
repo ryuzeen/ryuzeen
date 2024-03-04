@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently working on [Korepi](https://github.com/ryuzeen/korepi-docs)
 
-- 📓 I’m currently learning **Java, C#, Assembly, Ghidra, CheatEngine**
+- 📓 I’m currently learning **Java, C#, Assembly, Ghidra, Python (ADVANCED)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryuzeen](https://github.com/ryuzeen)
 
