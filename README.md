@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryuzeen](https://github.com/ryuzeen)
 
-- 💬 Ask me about **C++, Css, JavaScript, Python**
+- 💬 Ask me about **C++, Python, JavaScript, C, Ipynb**
 
 - 📫 How to reach me **vulconibraba@gmail.com**
 
