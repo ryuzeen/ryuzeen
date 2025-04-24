@@ -11,7 +11,7 @@
 
 - 📓 I’m currently learning **Vue.js and frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ryuzeen](https://github.com/ryuzeen)
+- 👨‍💻 All of my projects are available [here](https://github.com/ryuzeen?tab=repositories)
 
 - 💬 Ask me about **C++, Python, JavaScript, C, any language :)**
 
@@ -19,7 +19,7 @@
 
 - 🗣️ Languages **PT / ES / EN / RU**
 
-- ⚡ Support me at **https://sociabuzz.com/ryuzeen_/tribe**
+- ⚡ Support me **[here](https://github.com/ryuzeen?tab=repositories)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
