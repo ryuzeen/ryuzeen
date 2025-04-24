@@ -7,13 +7,13 @@
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryuzeen" alt="ryuzeen" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/20/9b/0c209baeecd01230a2e74189c75d3b35.jpg">
 
-- 👨‍💻 I’m currently working on [Korepi](https://github.com/ryuzeen/korepi-docs)
+- 👨‍💻 I’m currently working on [Exati](https://exati.com/)/[Korepi](https://github.com/ryuzeen/korepi-docs)
 
-- 📓 I’m currently learning **Java, C#, Assembly, Ghidra, Python (ADVANCED)**
+- 📓 I’m currently learning **Vue.js and frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryuzeen](https://github.com/ryuzeen)
 
-- 💬 Ask me about **C++, Python, JavaScript, C, Ipynb**
+- 💬 Ask me about **C++, Python, JavaScript, C, any language :)**
 
 - 📫 How to reach me **vulconibraba@gmail.com**
 
