@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently working on [Korepi](https://github.com/ryuzeen/korepi-docs)
 
-- 📓 I’m currently learning **Vue.js and frameworks**
+- 📓 I’m currently learning **Vue.js, Java, SQL and frameworks like Javier**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ryuzeen?tab=repositories)
 
