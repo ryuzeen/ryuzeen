@@ -7,7 +7,7 @@
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryuzeen" alt="ryuzeen" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/20/9b/0c209baeecd01230a2e74189c75d3b35.jpg">
 
-- 👨‍💻 I’m currently working on [Exati](https://exati.com/)/[Korepi](https://github.com/ryuzeen/korepi-docs)
+- 👨‍💻 I’m currently working on [Korepi](https://github.com/ryuzeen/korepi-docs)
 
 - 📓 I’m currently learning **Vue.js and frameworks**
 
