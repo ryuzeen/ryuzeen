@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuzeen&label=Profile%20views&color=0e75b6&style=flat" alt="ryuzeen" /> </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ryuzeen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=ryuzeen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/20/9b/0c209baeecd01230a2e74189c75d3b35.jpg">
