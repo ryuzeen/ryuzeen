@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/20/9b/0c209baeecd01230a2e74189c75d3b35.jpg">
 
-- 👨‍💻 I’m currently working on **Koban**
+- 👨‍💻 I’m currently working on **[Square Enix](https://www.google.com/search?q=Square+Enix&oq=Square+Enix&gs_lcrp=EgZjaHJvbWUyDggAEEUYJxg5GIAEGIoFMhAIARAuGMcBGLEDGNEDGIAEMgYIAhAjGCcyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEC4YgAQyBwgJEAAYgATSAQgxNTI0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)**
 
 - 📓 I’m currently learning **Vue.js, Java, SQL and frameworks like Javier**
 
